@@ -1,7 +1,8 @@
 public class Temp {
     public static void main(String[] args) {
-        for(int i = 1;i<10;i++){
-System.out.println(i*2);
-}
+        int a=10;
+int b=0;
+int div=a/b;
+System.out.println(div);
     }
 }
